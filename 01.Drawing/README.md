@@ -1,3 +1,0 @@
-**#01_Drawing** <br><br>
-Using p5js on VSCode, while backing up my code to a GitHub repository, I designed and programmed a unique emoji. The design is meant to emulate exasperation or embarrassment, based on popularized internet memes, but otherwise a common gesture that has not been portrayed in standard emojis before.<br><br>
-Only utilizing simple shapes and the draw function, I first programmed the main body, adding the eyes as simple lines with a greater strokeWeight value from emphasis, and then through trial and error figured out the placement of ellipse shapes to form fingers. To make them appear closer to hands, I reduced several large ellipse shapes to a strokeWeight value of 0, then used lines to form the bottom shape of the hand.
